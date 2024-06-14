@@ -1,0 +1,10 @@
+{% extends 'base.html' %} {% block container %}
+<form method="POST" action="{{url_for('api')}}">
+  <div>Enter Url For Reviews</div>
+  <div><input type="text" id="url" name="url" /></div>
+  <div>Enter How Many Pages</div>
+  <div><input type="number" id="pages" name="pages" /></div>
+  <input type="submit" value="Save" />
+</form>
+
+{% endblock %}
