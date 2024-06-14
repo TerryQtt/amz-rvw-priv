@@ -1,6 +1,6 @@
-# Amazon Review API using Flask & Selectorlib
+# Ecommerce Review API using Flask & Selectorlib
 
-A very basic API to scrape product reviews from Amazon and get data in real time as JSON with all fields, that amazon product adverstising api does not provide you. 
+A very basic API to scrape product reviews and get data in real time as JSON with all fields, that amazon product adverstising api does not provide you. 
 
 Forked from [ScrapeHero/Amazon-Review-Scraper](https://github.com/scrapehero-code/amazon-review-scraper)
 
